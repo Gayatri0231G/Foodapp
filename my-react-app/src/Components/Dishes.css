@@ -1,0 +1,128 @@
+.main-page{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    background-color: #d1d0d0;
+    border-radius: 15px;
+}
+
+.dishes-images{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    padding: 10px;
+}
+
+.dishes-img img{
+    width: 100%;
+    border-radius: 10px;
+    max-width: 100px;
+    height: 107px;
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: #777;
+}
+
+.plus{
+    position: absolute;
+    top: 128px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 115px;
+}
+
+.plus-icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    color: rgb(255, 209, 82);
+}
+
+.plus2{
+    position: absolute;
+    top: 128px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 244px;
+}
+
+.plus3{
+    position: absolute;
+    top: 259px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 115px;
+}
+
+.plus4{
+    position: absolute;
+    top: 258px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 243px;
+}
+
+.plus5{
+    position: absolute;
+    top: 391px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 116px;
+}
+
+.plus6{
+    position: absolute;
+    top: 391px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 243px;
+}
+
+.plus7{
+    position: absolute;
+    top: 521px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 116px;
+}
+
+.plus8{
+    position: absolute;
+    top: 521px;
+    width: 100%;
+    max-width: 25px;
+    background-color: white;
+    height: 25px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 243px;
+}
+
+

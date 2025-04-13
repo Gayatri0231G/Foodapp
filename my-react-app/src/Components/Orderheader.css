@@ -1,0 +1,32 @@
+.header-part{
+    width: 100%;
+    max-width: 300px;
+    height: 100px;
+    border-radius: 14px;
+    background-color: rgb(255, 233, 171);
+}
+
+.myyy{
+    display: flex;
+    justify-content: space-between;
+}
+
+.items{
+    font-family: sans-serif;
+    font-size: 8px;
+    color: #979797;
+    margin-right: 20px;
+}
+
+.dollar-symbol{
+    display: flex;
+    justify-content: space-between;
+}
+
+.five{
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-right: 20px;
+    margin-top: 3px;
+    font-weight: 600;
+}

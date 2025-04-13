@@ -1,0 +1,50 @@
+.checkout-page{
+    width: 100%;
+    max-width: 300px;
+    height: 500px;
+    background-color: #cacaca;
+    border-radius: 15px;
+}
+
+.food-content{
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    padding-top: 20px;
+}
+
+.foodcontent-box{
+    width: 100%;
+    max-width: 245px;
+    height: 100px;
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.contentss{
+    display: flex;
+    justify-content: space-between;
+}
+
+.food-img{
+    width: 100%;
+    max-width: 70px;
+    border-radius: 7px;
+    margin-top: 15px;
+    margin-left: 12px;
+    height: 70px;
+    background-color: aqua;
+}
+
+.plus-minus{
+    width: 100%;
+    max-width: 40px;
+    border-radius: 20px;
+    height: 100px;
+    background-color: #dadada;
+}
+
+.plusminus{
+    text-align: center;
+}

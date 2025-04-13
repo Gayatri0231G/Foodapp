@@ -1,0 +1,7 @@
+.header-part{
+    width: 100%;
+    max-width: 300px;
+    height: 100px;
+    border-radius: 14px;
+    background-color: rgb(255, 233, 171);
+}
