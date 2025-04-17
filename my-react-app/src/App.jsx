@@ -1,12 +1,16 @@
 import React from 'react'
-import Food from './Components/Food'
+// import StateComponentDemo from './testComponents/StateComponentDemo';
+import SimpleFrom from './testComponents/Formik';
+
 
 function App() {
 
   return (
     <>
-      <div>
-        <Food />
+      <div style={{color:"#000"}}>
+        {/* <StateComponentDemo name={""}/> */}
+        <SimpleFrom />
+       
       </div>
       
     </>
