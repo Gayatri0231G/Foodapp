@@ -1,6 +1,7 @@
 import React from 'react'
 // import StateComponentDemo from './testComponents/StateComponentDemo';
-import SimpleFrom from './testComponents/Formik';
+// import SimpleFrom from './testComponents/Formik';
+import SimpleFormdata from './testComponents/Storedata';
 
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
     <>
       <div style={{color:"#000"}}>
         {/* <StateComponentDemo name={""}/> */}
-        <SimpleFrom />
+        {/* <SimpleFrom /> */}
+        <SimpleFormdata />
        
       </div>
       
